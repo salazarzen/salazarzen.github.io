@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "FoodHub Order Analysis"
+excerpt: "Analysis of the demand of different restaurants<br/>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project involves analyzing the data to get a fair idea about the demand of different restaurants which will help the company to enhance business and customer experience. 
