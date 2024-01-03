@@ -1,6 +1,6 @@
 ---
-title: "FoodHub Order Analysis"
-excerpt: "#### Nov 2023<br/>Analysis of the demand of different restaurants."
+title: "FoodHub Order Analysis <br/> <br/> #### Nov 2023"
+excerpt: "Analysis of the demand of different restaurants."
 collection: portfolio
 ---
 
