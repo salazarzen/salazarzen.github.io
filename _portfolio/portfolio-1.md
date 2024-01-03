@@ -8,4 +8,4 @@ This project involves analyzing the data to get a fair idea about the demand of 
 
 ### Skills & Tools
 
-`Exploratory Data Analysis`, `Data Visualization`, `Statistics`
+`Exploratory Data Analysis`, `Data Visualization`, `Statistics`, `Python`
