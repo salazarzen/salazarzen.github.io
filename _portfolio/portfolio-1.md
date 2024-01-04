@@ -1,19 +1,17 @@
 ---
-title: "EdTech industry"
-excerpt: "Analysis of elearning data"
+title: "Predictive Modeling for Lead Conversion in EdTech"
+excerpt: "As a part of [MIT's Data Science and Machine Learning program](https://www.mygreatlearning.com/mit-data-science-and-machine-learning-program), I engaged in a case study for ExtraaLearn, a fictional EdTech startup. Using Python, the project aimed to identify leads likely to convert to paid customers in the dynamic Online Education market. The analysis included a thorough exploration of lead attributes, employing Decision tree and random forest models to optimize ExtraaLearn's resource allocation strategy."
 collection: portfolio
 ---
 
-The EdTech industry has been surging in the past decade immensely, and according to a forecast, the Online Education market would be worth $286.62bn by 2023 with a compound annual growth rate (CAGR) of 10.26% from 2018 to 2023. The modern era of online education has enforced a lot in its growth and expansion beyond any limit. Due to having many dominant features like ease of information sharing, personalized learning experience, transparency of assessment, etc, it is now preferable to traditional education. 
+Within the framework of [MIT's Institute for Data, Systems, and Society (IDSS) Data Science and Machine Learning program](https://www.mygreatlearning.com/mit-data-science-and-machine-learning-program), I participated in a case study for ExtraaLearn—a fictional early-stage EdTech startup. Focused on the thriving Online Education market, the project aimed to tackle the challenge of efficiently identifying leads with a higher likelihood of converting to paid customers. 
 
-In the present scenario due to the Covid-19, the online education sector has witnessed rapid growth and is attracting a lot of new customers. Due to this rapid growth, many new companies have emerged in this industry. With the availability and ease of use of digital marketing resources, companies can reach out to a wider audience with their offerings. The customers who show interest in these offerings are termed as leads. There are various sources of obtaining leads for Edtech companies, like
+Executed in Python, the project commenced with a comprehensive Exploratory Data Analysis (EDA) of the provided dataset, which included diverse attributes such as lead ID, age, current occupation, and details about the lead's interactions with ExtraaLearn. The focus was on understanding the factors influencing lead conversion. Decision tree and random forest models were employed for predictive modeling, and their performance was fine-tuned through grid search and parameter optimization.
 
-The customer interacts with the marketing front on social media or other online platforms. 
-The customer browses the website/app and downloads the brochure
-The customer connects through emails for more information.
+The predictive model successfully identified patterns and factors driving the lead conversion process for ExtraaLearn. Key insights were derived from attributes such as age, current occupation, website interaction details, and digital marketing engagement. This information allowed ExtraaLearn to create a targeted profile of leads likely to convert. The project not only enhanced the company's lead conversion strategy but also facilitated a more efficient allocation of resources. This initiative stands as a testament to the practical application of data science and machine learning in optimizing business processes within the dynamic landscape of the EdTech industry.
 
-The company then nurtures these leads and tries to convert them to paid customers. For this, the representative from the organization connects with the lead on call or through email to share further details.
+The code for this case study can be found in my [Kaggle profile](https://www.kaggle.com/code).
 
 ### Skills & Tools
 
-`Exploratory Data Analysis`, `Data Visualization`, `Statistics`, `R`, `RMarkdown`
+`Data Science`, `Predictive Models`, `Machine Learning`, `Exploratory Data Analysis`, `Data Visualization`, `Statistics`, `Python`, `Decision Trees`, `Random Forest`
