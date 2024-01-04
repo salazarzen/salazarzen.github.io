@@ -11,7 +11,7 @@ restaurant demand, helping FoodHub enhance its services.
 
 The analysis involved exploring customer behavior, understanding popular cuisines, assessing delivery and preparation times, and identifying trends based on weekdays and weekends. The findings not only shed light on customer preferences but also guided strategic decisions to improve the overall efficiency of FoodHub's operations. Python's versatile capabilities, coupled with the rich data set, empowered me to derive actionable recommendations for the company's continued success in the competitive food delivery market.
 
-The code for this case study can be found in my [Kaggle profile](https://www.kaggle.com/code/luissalazarzendeja).
+The code for this case study can be found in my [Kaggle profile](https://www.kaggle.com/code/luissalazarzendeja/foodhub-s-restaurant-demand-analysis/notebook).
 
 ### Skills & Tools
 
