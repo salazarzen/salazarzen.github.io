@@ -10,7 +10,7 @@ Executed in Python, the project commenced with a comprehensive Exploratory Data 
 
 The predictive model successfully identified patterns and factors driving the lead conversion process for ExtraaLearn. Key insights were derived from attributes such as age, current occupation, website interaction details, and digital marketing engagement. This information allowed ExtraaLearn to create a targeted profile of leads likely to convert. The project not only enhanced the company's lead conversion strategy but also facilitated a more efficient allocation of resources. This initiative stands as a testament to the practical application of data science and machine learning in optimizing business processes within the dynamic landscape of the EdTech industry.
 
-The code for this case study can be found in my [Kaggle profile](https://www.kaggle.com/code).
+The code for this case study can be found in my [Kaggle profile](https://www.kaggle.com/code/luissalazarzendeja/predictive-modeling-for-lead-conversion-in-edtech).
 
 ### Skills & Tools
 
