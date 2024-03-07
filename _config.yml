@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Luis Salazar"
 title_separator          : "-"
 name                     : &name "Luis Salazar"
-description              : &description "PhD in Computer Sciencies"
+description              : &description "Dr. in Computer Sciencies"
 url                      : https://salazarzen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "salazarzen/salazarzen.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Luis Salazar"
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   bio              : "PhD in Computer Science | Skilled in Python, R and C++ | Seeking opportunities in data science and machine learning"
   location         : #"Location"
   employer         :
