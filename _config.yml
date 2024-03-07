@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Luis Salazar"
-  avatar           : "profile1.png"
+  avatar           : "profile.png"
   bio              : "PhD in Computer Science | Skilled in Python, R and C++ | Seeking opportunities in data science and machine learning"
   location         : #"Location"
   employer         :
